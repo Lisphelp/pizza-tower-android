@@ -1,5 +1,5 @@
 scr_initenemy()
-patrolling = 0
+patrolling = 1
 patrolmax = 100
 spawnreset = 200
 targetplayer = -4
